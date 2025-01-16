@@ -7,7 +7,7 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Вставьте ваши токены
 API_TOKEN = '7940620006:AAHfR3-PiN3M6ZmaK027KHGikhjMa1FbgJA'
-WEATHER_API_KEY = '5fadc378bc8b4ecea64105224242412'
+WEATHER_API_KEY = '077c1c517b43430ba2462140251601'
 WEATHER_API_URL = 'http://api.weatherapi.com/v1/current.json'
 
 bot = AsyncTeleBot(API_TOKEN)
